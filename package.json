@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "avro-js": "^1.12.0",
+    "axios": "^1.10.0",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "fresh": "^0.5.2",
+    "fs": "^0.0.1-security",
+    "google-auth-library": "^10.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "material": "^0.9.24",
+    "material-components-web": "^14.0.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.3",
+    "node-fetch": "^3.3.2",
+    "passport": "^0.7.0",
+    "preact": "^10.26.9",
+    "preact-material-components": "^1.6.1",
+    "react": "^19.1.0",
+    "tabbyjs": "^12.0.3"
+  },
+  "devDependencies": {
+    "@types/google-publisher-tag": "^1.20250428.0"
+  }
+}
